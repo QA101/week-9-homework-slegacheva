@@ -1,0 +1,52 @@
+Website: http://demoqa.com/
+
+Navigation Menu - id="menu-primary-menu" 
+                  
+
+Tab "Home" - id="menu-item-38" 
+               class ="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-38 active">
+                  link = "http://demoqa.com/"
+                  title = "Home" 
+Tab "About Us" - id="menu-item-158"
+                 class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-158"
+                 link = "http://demoqa.com/about-us/"
+                 title = "About us"
+Tab "Services" - "Home";id="menu-item-"155"
+                        class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-155"
+                       link = "http://demoqa.com/services/"
+                       title = "Services"
+Tab "Demo"- "Home";id="menu-item-"66"
+             class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-66 dropdown
+             title = "Demo"
+Tab "Blog" - id="menu-item-"65"
+             class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-65"
+             link = "http://demoqa.com/blog/"
+             title = "Blog"
+Tab "Contact" - id="menu-item-"64"
+              class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-64"
+             link = "http://demoqa.com/contact/"
+             title = "Contact"
+
+Line under Menu "Home" - id = "breadcrumb", class = "breadcrumb"
+
+Unique & Clean Text = <h5>Unique &amp; Clean</h5>
+
+Unique & Clean Pic = <p><a href="http://demoqa.com/wp-content/uploads/2014/08/pattern-14.png"><img class="alignnone size-medium wp-image-225" src="http://demoqa.com/wp-content/uploads/2014/08/pattern-14-300x237.png" alt="pattern-14" width="300" height="237" srcset="http://demoqa.com/wp-content/uploads/2014/08/pattern-14-300x237.png 300w, http://demoqa.com/wp-content/uploads/2014/08/pattern-14.png 400w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
+
+Unique & Clean Text under Pic = <p>"Aliquam hendrit rutrum iaculis nullam ondimentum maluada velit beum donec sit amet"</p>
+
+
+Button "Registration"- id="menu-item-374"
+
+Button "Draggable"- id="menu-item-140"
+
+Button "Droppable"- id="menu-item-141"
+
+Button "Selectable"- id="menu-item-142"
+
+Button "Resizable"- id="menu-item-143"
+
+Button "Sortable"- id="menu-item-151"
+
+
+
