@@ -1,0 +1,25 @@
+http://automationpractice.com/index.php
+
+Search Box - id="search_query_top" name="search_query" 
+
+
+"YourLogo" Pic - <img class="logo img-responsive" src="http://automationpractice.com/img/logo.jpg" alt="My Store" width="350" height="99">
+
+Tab "Contact Us" - div id = "contact - link", title = "Contact Us"
+
+Tab "Sign out" - class= "logout"
+
+Tab "My account" - class = "account" ; 
+                   title = "View my customer account"
+                   link = "http://automationpractice.com/index.php?controller=my-account"
+
+Tab "Women" - class = "sf-with-ul"
+              title = "Women"
+              link = "http://automationpractice.com/index.php?id_category=3&amp;controller=category=3&amp;controller=category"
+
+Tab "Dresses" - class = "sf-with-ul"
+               title = "Dresses"
+               link = "http://automationpractice.com/index.php?id_category=8&amp;controller=category"
+
+Tab "T-shirts" - title = "T-shirts"
+                 link = "http://automationpractice.com/index.php?id_category=5&amp;controller=category"
